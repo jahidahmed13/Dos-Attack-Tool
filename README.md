@@ -17,7 +17,7 @@ _______________
 	$ sudo apt install python
 	$ sudo apt install python3
 	$ git clone https://github.com/jahidahmed13/Dos-Attack-Tool.git
-	$ cd Dos Attack
+	$ cd Dos-Attack-Tool
 	$ python3 Dos.py
  
 
